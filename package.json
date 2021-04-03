@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ccxt": "^1.46.27"
   }
 }
